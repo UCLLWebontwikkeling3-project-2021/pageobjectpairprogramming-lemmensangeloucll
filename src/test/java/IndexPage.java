@@ -5,6 +5,11 @@ import org.openqa.selenium.support.PageFactory;
 
 import java.util.List;
 
+/**
+ * @author Angelo Lemmens
+ * @author Hendrik Rummens
+ */
+
 public class IndexPage extends Page{
     @FindBy(id="submitSearch")
     private WebElement submitSearchButton;

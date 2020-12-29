@@ -12,6 +12,11 @@ import java.util.Map;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
+/**
+ * @author Angelo Lemmens
+ * @author Hendrik Rummens
+ */
+
 public class LoginTest {
     private WebDriver driver;
     //TODO change the path below if necessary

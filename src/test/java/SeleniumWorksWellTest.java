@@ -8,6 +8,11 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import static org.junit.Assert.assertEquals;
 
+/**
+ * @author Angelo Lemmens
+ * @author Hendrik Rummens
+ */
+
 public class SeleniumWorksWellTest {
 
 		private WebDriver driver;

@@ -5,6 +5,11 @@ import org.openqa.selenium.support.PageFactory;
 
 import java.util.List;
 
+/**
+ * @author Angelo Lemmens
+ * @author Hendrik Rummens
+ */
+
 public class LoginPage extends Page{
     //TODO change the id of the user id field below to the correct id of your user id field
     @FindBy(id="userid")

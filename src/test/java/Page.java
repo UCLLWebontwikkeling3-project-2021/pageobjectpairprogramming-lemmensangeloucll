@@ -1,5 +1,10 @@
 import org.openqa.selenium.WebDriver;
 
+/**
+ * @author Angelo Lemmens
+ * @author Hendrik Rummens
+ */
+
 public abstract class Page {
     WebDriver driver;
     //TODO change the path below if necessary
